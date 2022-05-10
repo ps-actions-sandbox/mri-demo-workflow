@@ -2,7 +2,7 @@ name: Test workflow template
 
 on:
   push:
-    branches: [ main ]
+    # branches: [ main ]
 
 jobs:
   echo:
