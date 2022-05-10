@@ -1,6 +1,6 @@
 # :rocket: Workflow syntax
 
-Demo repository for basic GitHub Actions workflow syntax!!
+Demo repository for basic GitHub Actions workflow syntax.
 
 :exclamation: **This is a template repository**
   - Please click ***Use this template*** to clone the repo into your user account or a different organization that you own, and run the demo from there
